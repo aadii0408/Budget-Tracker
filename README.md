@@ -101,13 +101,18 @@ SmartBudgeter is a lightweight, user-friendly app that helps users manage their 
 ## **Screenshots**
 
 ### **1. Input Financial Details**
-![Input Financial Details](https://via.placeholder.com/600x300?text=Input+Details+Screenshot)
+![image](https://github.com/user-attachments/assets/8489f1ff-e44f-4707-8d51-26cd52f9ffb6)
+![image](https://github.com/user-attachments/assets/c5fd491b-f327-4d4d-a601-610ab6a43a80)
 
 ### **2. View Budget Summary**
-![Budget Summary](https://via.placeholder.com/600x300?text=Budget+Summary+Screenshot)
+![image](https://github.com/user-attachments/assets/1d0c37d7-1c10-4b0d-b51a-098dd956b3ac)
 
 ### **3. Expense Visualization**
-![Expense Visualization](https://via.placeholder.com/600x300?text=Expense+Visualization+Screenshot)
+![image](https://github.com/user-attachments/assets/de6b75c1-262a-4962-a0bd-e923734f31f2)
+![image](https://github.com/user-attachments/assets/804d736b-9ac7-4195-9a91-366be0a9c151)
+
+### **4. Goal Tracking and Motivational AI Tips for Savings**
+![image](https://github.com/user-attachments/assets/faf79373-c472-4532-a716-8674b7519dff)
 
 ---
 
@@ -116,25 +121,5 @@ SmartBudgeter is a lightweight, user-friendly app that helps users manage their 
 2. Integrate with banking APIs for live transaction tracking.
 3. Introduce community tips and forums for shared financial advice.
 4. Expand charts with more advanced visualizations.
-
----
-
-## **Contributing**
-
-Contributions are welcome! Follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a Pull Request on GitHub.
 
 ---
